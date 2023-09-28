@@ -1,0 +1,47 @@
+.rowpost
+{
+    margin-left: 20px;
+    color: #fff;
+
+}
+.posters
+{
+    
+    display: flex;
+    padding: 20px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    cursor: pointer;
+
+}
+.poster:hover{
+  transform: scale(1.1);
+}
+.posters::-webkit-scrollbar
+{
+    display: none;
+}
+.poster
+{
+  max-height: 250px;
+
+  margin-right: 10px;
+  
+}
+.aposter
+{
+  max-height: 120px;
+  margin-right: 10px;
+  
+}
+.aposter:hover{
+  transform: scale(1.1);
+}
+.iconse
+{
+  margin-left: 1250px;
+ 
+  color: antiquewhite;
+
+  
+}

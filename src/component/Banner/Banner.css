@@ -1,0 +1,76 @@
+.banner
+{
+    height: 450px;
+    
+    background-size: cover;
+    width: 100%;
+    color: white;
+  
+}
+.content
+{   
+    padding-left: 15px;
+    padding-top: 140px;
+    height: 190px;
+}
+.title
+{
+    font-size: 3rem;
+    font-weight: 800;
+    padding-bottom: .3rem;
+
+}
+.button
+{
+  color: white;
+  outline: none;
+  border: none;
+  font-weight: 700;
+  border-radius: 5px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  background-color: rgba(51, 51, 51, 0.5);
+  cursor: pointer;
+  margin-right: 1rem;
+}
+.button:hover{
+    color: black;
+    background-color: #e6e6e6;
+}
+.description
+{
+    width: 40rem;
+    line-height: 1.5;
+    padding-top: 1rem;
+    font-size: 0.9rem;
+    height: 80px;
+    max-width: 460px;
+
+
+    
+}
+.fade
+{
+    height: 7.5rem;
+    background-image: linear-gradient(180deg,transparent,rgba(37,37,37,.61),#111);
+
+}
+.iconses
+{
+  margin-left: 600px;
+ 
+  color: antiquewhite;
+
+  
+}
+.trailer
+{
+    height: '390px';
+    position: absolute;
+    top: 58px;
+    left: 500px;
+    z-index: 1;
+    width: 100%;
+}

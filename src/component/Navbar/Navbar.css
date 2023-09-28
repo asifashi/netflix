@@ -1,0 +1,37 @@
+.navbar
+{
+    position: fixed;
+    top: 0;
+    width: 100%;
+   
+    padding: 20px;
+    justify-content: space-between;
+    background-color:#111;
+    height: 30px;
+}
+.logo
+{
+position: fixed;
+left:20px;
+width: 80px;
+}
+.avatar
+{
+  position: fixed;
+  right: 20px;
+  width:30px;
+}
+.icons
+{
+  margin-left: 200px;
+  justify-content: space-between;
+  color: antiquewhite;
+  
+}
+.icon
+{
+  margin-left: 160px;
+  justify-content: space-between;
+  margin-top: -18px;
+  color: aqua;
+}
